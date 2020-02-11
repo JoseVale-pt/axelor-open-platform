@@ -51,3 +51,5 @@ application.gzip.*
 application.login.min.*
 application.login.gzip.*
 
+# Folder config file
+[Dd]esktop.ini
